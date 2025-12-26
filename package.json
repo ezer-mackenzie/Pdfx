@@ -1,0 +1,13 @@
+{
+  "name": "pdfx",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "recharts": "^3.6.0",
+    "rolldown": "^1.0.0-beta.57"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
